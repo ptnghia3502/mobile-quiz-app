@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "174003005965",
+    "project_id": "nghia-flutter-self-learning",
+    "storage_bucket": "nghia-flutter-self-learning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174003005965:android:01a5283df8b040a1334344",
+        "android_client_info": {
+          "package_name": "io.nghiapham.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174003005965-rtuo9h36gfckgpajkovee2tmsarckbb3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.nghiapham.quizapp",
+            "certificate_hash": "bdca7c27e1e0504c130617a9e5fb36cd04854a02"
+          }
+        },
+        {
+          "client_id": "174003005965-81b4572dlges3jkjeanaftdosh8cd5j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNdKKsdwG5SCaGIODRTVAf5NFdA_xT2E4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174003005965-81b4572dlges3jkjeanaftdosh8cd5j5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "174003005965-53dg2oakc10lu32kd809ah2qbabbbkg6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.nghiapham.quizapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

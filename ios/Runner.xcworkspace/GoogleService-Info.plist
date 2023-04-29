@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>174003005965-53dg2oakc10lu32kd809ah2qbabbbkg6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.174003005965-53dg2oakc10lu32kd809ah2qbabbbkg6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAXeF18G_FsYvPdYjC8tNOGjfNYGsnS4Vw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>174003005965</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.nghiapham.quizapp</string>
+	<key>PROJECT_ID</key>
+	<string>nghia-flutter-self-learning</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nghia-flutter-self-learning.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:174003005965:ios:71b4edb0d993bb7c334344</string>
+</dict>
+</plist>
