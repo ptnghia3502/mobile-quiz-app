@@ -1,16 +1,20 @@
-# quiz_app
+<div align = "center">
 
-A new Flutter project.
+# Mobile Quiz App 📱
 
-## Getting Started
+This repository is a project about mobile app, doing quiz in courses. </br>
+This app was implemented with Flutter and Firebase. </br>
+You can login app with Google, Apple ID, and Guest. </br>
+Im not publish app on Google Play, you can download repo for education purposes.
 
-This project is a starting point for a Flutter application.
+> 👌 Feel free to use my repository and star it if you find something interesting 😄
+</div>
+</br>
 
-A few resources to get you started if this is your first Flutter project:
+# 🔥 Run it
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+git clone https://github.com/ptnghia3502/mobile-quiz-app.git quizapp
+cd quizapp
+flutter run
+```
